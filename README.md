@@ -1,3 +1,16 @@
+> 🎓 **Course work — DevMountain, Full-Stack Web Development**
+> **Term:** January – February 2014 · **Assignment:** `worktalk`
+>
+> **Stack:** SailsJS 0.9 (Node.js) · Socket.IO · Grunt
+>
+> **Demonstrates:** SailsJS MVC project structure — models, controllers, routes,
+> and request policies (`isAuthenticated`, `isEmployee`) with a real-time
+> messaging backend.
+>
+> The original course assignment brief is preserved below.
+
+---
+
 worktalk
 ==========
 
