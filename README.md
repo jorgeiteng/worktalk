@@ -1,5 +1,5 @@
 > 🎓 **Course work — DevMountain, Full-Stack Web Development**
-> **Term:** January – February 2014 · **Assignment:** `worktalk`
+> **Term:** January – May 2014 · **Assignment:** `worktalk`
 >
 > **Stack:** SailsJS 0.9 (Node.js) · Socket.IO · Grunt
 >
